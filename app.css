@@ -44,11 +44,16 @@ body {
 .date {
     font-size: 0.875rem;
     font-weight: 500;
+    color: #6C727F;
 }
 
 img {
     border-radius: 15px;
-    width: 150px;
-    height: 150px;
-    margin: 2.75rem;
+    width: 190px;
+    height: 190px;
+    margin:  2.25rem 2.25rem 2.25rem 0.25rem;
+}
+
+.article-title:hover {
+    color: #555555;
 }
